@@ -1,7 +1,7 @@
 import React from 'react';
-import huluClone from '../public/projects/hulu-clone2.png';
-import weatherApp from '../public/projects/weather-app.png';
-import ProjectItem from '/components/ProjectItem';
+import huluClone from '../public/Projects/hulu-clone2.png';
+import weatherApp from '../public/Projects/weather-app.png';
+import ProjectItem from './components/ProjectItem';
 
 function Projects() {
 	return (
