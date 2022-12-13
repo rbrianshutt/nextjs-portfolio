@@ -16,12 +16,7 @@ function Navbar() {
 	const router = useRouter();
 
 	useEffect(() => {
-		if (
-			router.asPath === '/property' ||
-			router.asPath === '/crypto' ||
-			router.asPath === '/netflix' ||
-			router.asPath === '/twitch'
-		) {
+		if (router.asPath === '/hulu' || router.asPath === '/weather') {
 			setNavBg('transparent');
 			setLinkColor('#ecf0f3');
 		} else {
