@@ -1,13 +1,13 @@
 import React from 'react';
 import Image from 'next/image';
-import Html from '../public/skills/html.png';
-import Css from '../public//skills/css.png';
-import Javascript from '../public/skills/javascript.png';
-import ReactImg from '../public/skills/react.png';
-import Tailwind from '../public/skills/tailwind.png';
-import Github from '../public/skills/github1.png';
-import Git from '../public/skills/git.png';
-import NextJS from '../public/skills/nextjs.png';
+import Html from '../public/Skills/html.png';
+import Css from '../public/Skills/css.png';
+import Javascript from '../public/Skills/javascript.png';
+import ReactImg from '../public/Skills/react.png';
+import Tailwind from '../public/Skills/tailwind.png';
+import Github from '../public/Skills/github1.png';
+import Git from '../public/Skills/git.png';
+import NextJS from '../public/Skills/nextjs.png';
 
 function Skills() {
 	return (
