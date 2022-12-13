@@ -13,7 +13,7 @@ function Main() {
 						WELCOME TO MY PORTFOLIO
 					</p>
 					<h1 className='py-4 text-gray-700'>
-						Hi, I'm <span className='text-[#5651e5]'>Brian</span>
+						<span className='text-[#5651e5]'>Richard Brian Shutt</span>
 					</h1>
 					<h1 className='py-2 text-gray-700'>Developer/Software Engineer</h1>
 					<p className='py-4 text-gray-600 sm:max-w-[70%] m-auto'>
