@@ -17,7 +17,7 @@ function About() {
 					</p>
 					<p className='py-2 text-gray-600'>
 						My coding journey began in 2020 when I was furloughed from my job due to
-						Covid-19. With me newfound time, I committed to learning new skills. I started
+						Covid-19. With my newfound time, I committed to learning new skills. I started
 						with the fundamentals of HTML, CSS, and Javascript using Visual Studio Code.
 					</p>
 					<p className='py-2 text-gray-600'>
