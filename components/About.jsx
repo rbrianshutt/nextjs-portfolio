@@ -17,8 +17,8 @@ function About() {
 					</p>
 					<p className='py-2 text-gray-600'>
 						My coding journey began in 2020 when I was furloughed from my job due to
-						Covid-19. I committed to learning new skills. I started with the fundamentals
-						of HTML, CSS, and Javascript using Visual Studio Code.
+						Covid-19. With me newfound time, I committed to learning new skills. I started
+						with the fundamentals of HTML, CSS, and Javascript using Visual Studio Code.
 					</p>
 					<p className='py-2 text-gray-600'>
 						Over time, I learned React, Nextjs, Git, and some Redux. I gained exposure to
@@ -32,7 +32,6 @@ function About() {
 						level developer/software engineer position to work on projects in a team
 						environment.
 					</p>
-					
 				</div>
 				<div className='w-full h-auto m-auto shadow-xl shadow-gray-400 rounded-xl flex items-center justify-center p-4 hover:scale-105 ease-in duration-300'>
 					<Image src={AboutImg} className='rounded-xl' alt='/' />
