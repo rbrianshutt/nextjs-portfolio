@@ -25,7 +25,11 @@ function hulu() {
 					<p>Project</p>
 					<h2>Overview</h2>
 					<p>
-						This app was built using React and Nextjs and is hosted on Vercel. 
+						This is a fully responsive site made with Tailwind CSS that features on hover
+						animations and utilizes icons from Hero Icons. The app takes advantage of
+						Nextjs server side rendering, image optimization, and lazy loading images to
+						support a faster user experience. The app connects to TMDB via Rest API calls
+						to fetch data. The app was made with React and uses Vercel for deployment.
 					</p>
 					<a
 						href='https://github.com/rbrianshutt/hulu-clone'
