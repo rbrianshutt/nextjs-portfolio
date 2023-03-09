@@ -33,7 +33,7 @@ function About() {
 						environment.
 					</p>
 				</div>
-				<div className='w-full h-auto m-auto shadow-xl shadow-gray-400 rounded-xl flex items-center justify-center p-4 hover:scale-105 ease-in duration-300'>
+				<div className='w-full h-auto m-auto shadow-xl shadow-gray-400 rounded-xl flex items-center justify-center p-4 hover:scale-105 ease-in duration-150'>
 					<Image src={AboutImg} className='rounded-xl' alt='/' />
 				</div>
 			</div>

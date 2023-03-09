@@ -20,7 +20,7 @@ function Contact() {
 								<Image
 									src={ContactImg}
 									alt='/'
-									className='rounded-xl hover:scale-105 ease-in duration-300'
+									className='rounded-xl hover:scale-105 ease-in duration-150'
 								/>
 							</div>
 						</div>
@@ -33,17 +33,17 @@ function Contact() {
 						<h3 className='text-2xl p-2'>Phone:</h3>
 						<p className='font-bold p-2'>636-577-6982</p>
 						<div className='flex items-center justify-between max-w-[330px] m-auto py-4'>
-							<div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
+							<div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-150'>
 								<Link href='https://www.linkedin.com/in/brian-shutt-28bb16177/'>
 									<FaLinkedinIn />
 								</Link>
 							</div>
-							<div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
+							<div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-150'>
 								<Link href='https://github.com/rbrianshutt'>
 									<FaGithub />
 								</Link>
 							</div>
-							<div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
+							<div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-150'>
 								<Link href='mailto:richardbrianshutt@gmail.com'>
 									<AiOutlineMail />
 								</Link>
@@ -97,7 +97,7 @@ function Contact() {
 				</div>
 				<div className='flex justify-center py-12'>
 					<Link href='/'>
-						<div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
+						<div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-150'>
 							<HiOutlineChevronDoubleUp className='text-[#5651e5]' size={30} />
 						</div>
 					</Link>

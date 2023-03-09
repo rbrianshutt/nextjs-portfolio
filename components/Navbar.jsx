@@ -44,7 +44,7 @@ function Navbar() {
 			style={{ backgroundColor: `${navBg}` }}
 			className={
 				shadow
-					? 'fixed w-full h-20 shadow-xl z-[100] ease-in-out duration-300'
+					? 'fixed w-full h-20 shadow-xl z-[100] ease-in-out duration-150'
 					: 'fixed w-full h-20 z-[100]'
 			}
 		>
@@ -154,17 +154,17 @@ function Navbar() {
 						<div className='pt-16'>
 							<p className='uppercase tracking-widest text-[#5651e5]'>Let's Connect</p>
 							<div className='flex items-center justify-between my-4 w-full sm:w-[80%]'>
-								<div className='rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-300'>
+								<div className='rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-150'>
 									<Link href='https://www.linkedin.com/in/brian-shutt-28bb16177/'>
 										<FaLinkedinIn />
 									</Link>
 								</div>
-								<div className='rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-300'>
+								<div className='rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-150'>
 									<Link href='https://github.com/rbrianshutt'>
 										<FaGithub />
 									</Link>
 								</div>
-								<div className='rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-300'>
+								<div className='rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-150'>
 									<Link href='mailto:richardbrianshutt@gmail.com'>
 										<AiOutlineMail />
 									</Link>

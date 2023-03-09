@@ -21,17 +21,17 @@ function Main() {
 						back-end technologies.
 					</p>
 					<div className='flex items-center justify-between max-w-[330px] m-auto py-4'>
-						<div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
+						<div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-150'>
 							<Link href='https://www.linkedin.com/in/brian-shutt-28bb16177/'>
 								<FaLinkedinIn />
 							</Link>
 						</div>
-						<div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
+						<div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-150'>
 							<Link href='https://github.com/rbrianshutt'>
 								<FaGithub />
 							</Link>
 						</div>
-						<div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
+						<div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-150'>
 							<Link href='mailto:richardbrianshutt@gmail.com'>
 								<AiOutlineMail />
 							</Link>

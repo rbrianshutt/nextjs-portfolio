@@ -16,7 +16,7 @@ function Skills() {
 				<p className='text-xl tracking-widest uppercase text-[#5651e5]'>Skills</p>
 				<h2 className='py-4'>What I Can Do</h2>
 				<div className='grid grid-cols-2 lg:grid-cols-4 gap-8'>
-					<div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300'>
+					<div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-150'>
 						<div className='grid grid-cols-2 gap-4 justify-center items-center'>
 							<div className='m-auto'>
 								<Image src={Html} width={64} height={64} alt='/' />
@@ -26,7 +26,7 @@ function Skills() {
 							</div>
 						</div>
 					</div>
-					<div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300'>
+					<div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-150'>
 						<div className='grid grid-cols-2 gap-4 justify-center items-center'>
 							<div className='m-auto'>
 								<Image src={Css} width={64} height={64} alt='/' />
@@ -36,7 +36,7 @@ function Skills() {
 							</div>
 						</div>
 					</div>
-					<div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300'>
+					<div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-150'>
 						<div className='grid grid-cols-2 gap-4 justify-center items-center'>
 							<div className='m-auto'>
 								<Image src={Javascript} width={64} height={64} alt='/' />
@@ -46,7 +46,7 @@ function Skills() {
 							</div>
 						</div>
 					</div>
-					<div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300'>
+					<div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-150'>
 						<div className='grid grid-cols-2 gap-4 justify-center items-center'>
 							<div className='m-auto'>
 								<Image src={ReactImg} width={64} height={64} alt='/' />
@@ -56,7 +56,7 @@ function Skills() {
 							</div>
 						</div>
 					</div>
-					<div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300'>
+					<div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-150'>
 						<div className='grid grid-cols-2 gap-4 justify-center items-center'>
 							<div className='m-auto'>
 								<Image src={Tailwind} width={64} height={64} alt='/' />
@@ -66,7 +66,7 @@ function Skills() {
 							</div>
 						</div>
 					</div>
-					<div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300'>
+					<div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-150'>
 						<div className='grid grid-cols-2 gap-4 justify-center items-center'>
 							<div className='m-auto'>
 								<Image src={NextJS} width={64} height={64} alt='/' />
@@ -76,7 +76,7 @@ function Skills() {
 							</div>
 						</div>
 					</div>
-					<div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300'>
+					<div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-150'>
 						<div className='grid grid-cols-2 gap-4 justify-center items-center'>
 							<div className='m-auto'>
 								<Image src={Github} width={64} height={64} alt='/' />
@@ -86,7 +86,7 @@ function Skills() {
 							</div>
 						</div>
 					</div>
-					<div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300'>
+					<div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-150'>
 						<div className='grid grid-cols-2 gap-4 justify-center items-center'>
 							<div className='m-auto'>
 								<Image src={Git} width={64} height={64} alt='/' />
